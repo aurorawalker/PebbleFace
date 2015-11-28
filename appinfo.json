@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "billy.teh.punk@gmail.com",
+    "longName": "HelloWorld",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "HelloWorld",
+    "uuid": "79598f4d-2278-4428-9678-bb7a35f1cea5",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
