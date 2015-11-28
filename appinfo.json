@@ -3,14 +3,14 @@
     "capabilities": [
         ""
     ],
-    "companyName": "billy.teh.punk@gmail.com",
-    "longName": "HelloWatchFace",
+    "companyName": "HermitColony",
+    "longName": "HobbitTime",
     "projectType": "native",
     "resources": {
         "media": []
     },
     "sdkVersion": "3",
-    "shortName": "HelloWatchFace",
+    "shortName": "HobbitTime",
     "targetPlatforms": [
         "basalt"
     ],

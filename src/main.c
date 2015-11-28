@@ -5,7 +5,10 @@ static TextLayer *s_time_layer;
 
 
 static void update_time() {
-    // Get a tm structure
+    /*  This only cares about the hour, giving an approximate string value
+    *   to describe what time it is. This is best used by people who don't
+    *   actually want to know the real time.
+    */
     time_t temp = time(NULL); 
     struct tm *tick_time = localtime(&temp);
     
