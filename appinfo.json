@@ -4,19 +4,19 @@
         ""
     ],
     "companyName": "billy.teh.punk@gmail.com",
-    "longName": "HelloWorld",
+    "longName": "HelloWatchFace",
     "projectType": "native",
     "resources": {
         "media": []
     },
     "sdkVersion": "3",
-    "shortName": "HelloWorld",
+    "shortName": "HelloWatchFace",
     "targetPlatforms": [
         "basalt"
     ],
-    "uuid": "79598f4d-2278-4428-9678-bb7a35f1cea5",
+    "uuid": "16d839bc-54e5-4112-8b8f-0d40f9507e9b",
     "versionLabel": "1.0",
     "watchapp": {
-        "watchface": false
+        "watchface": true
     }
 }
